@@ -1,0 +1,10 @@
+.container {
+  background: #242223;
+}
+img {
+  width: 100%;
+  margin-bottom: 1em;
+}
+.list {
+    columns: 300px;
+}
